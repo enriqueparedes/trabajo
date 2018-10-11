@@ -1,0 +1,2 @@
+programa1 clase provinci ingreso de datos por computador
+programa2 ingrese un numero decimal y encontrar su equivalente en vinario
